@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #3B7A57;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	background-color: #7CB9E8;
+	color: white;
+	font-size: 40px;
+}
+.lime{
+	background-color: #FF4F00;
+}
+.five{
+	background-color: #E52B50;
+}
